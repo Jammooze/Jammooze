@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Wuddup Wuddup! I'm James</h1>
 <h3 align="center">A Computer Science Student from Los Angeles</h3>
 
 <img align="right" alt="Coding" width="455" src="https://media.tenor.com/mAlJkmN3TEcAAAAC/hackerman-emote.gif">
 
-- 🌱 I’m currently learning **Algorithmic Stock Trading with Python**
+- 📈 Currently tryin' to learn **Algorithmic Stock Trading with Python**
 
-- 💬 Ask me about **Python, Java, C++**
+- 😎 Yeah, I know sum stuff about **Python, Java, & C++**
 
-- 📫 How to reach me **nguyejames03@gmail.com**
+- 📫 You can reach me at **nguyejames03@gmail.com**
 
-- ⚡ Fun fact **I still count with my fingers...**
+-  🖐 Fun Fact: **I still count with my fingers...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
