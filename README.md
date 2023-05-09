@@ -1,5 +1,5 @@
 <h1 align="center">Wuddup Wuddup! I'm James</h1>
-<h3 align="center">A Comp Sci Student from Los Angeles, CA</h3>
+<h3 align="center">A 2nd Year Comp Sci Student from Los Angeles, CA</h3>
 
 <img align="right" alt="Coding" width="455" src="https://media.tenor.com/mAlJkmN3TEcAAAAC/hackerman-emote.gif">
 
