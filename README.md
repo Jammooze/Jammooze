@@ -1,15 +1,13 @@
 <h1 align="center">Wuddup Wuddup! I'm James</h1>
-<h3 align="center">A 2nd Year Comp Sci Student from Los Angeles, CA</h3>
+<h3 align="center">A 3rd Year Comp Sci Student from Los Angeles, CA</h3>
 
-<img align="right" alt="Coding" width="455" src="https://media.tenor.com/mAlJkmN3TEcAAAAC/hackerman-emote.gif">
+<img align="right" alt="Coding" width="455" src="https://c.tenor.com/34WjKzkaKVgAAAAC/tenor.gif">
 
-- 📈 Currently tryin' to learn **Algorithmic Stock Trading with Python**
-
-- 😎 Yeah, I know sum stuff about **Python, Java, & C++**
+- 📈 Currently tryin' to learn **Machine Learning w/ Python & TensorFlow**
 
 - 📫 You can reach me at **nguyejames03@gmail.com**
 
--  🖐 Fun Fact: **I still count with my fingers...**
+- 🖐 Fun Fact: **I still count with my fingers...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
