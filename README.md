@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="455" src="https://c.tenor.com/34WjKzkaKVgAAAAC/tenor.gif">
 
-- 📈 Currently tryin' to learn **Machine Learning w/ Python & TensorFlow**
+- 📈 Currently tryin' to learn **React + Vite**
 
 - 📫 You can reach me at **nguyejames03@gmail.com**
 
