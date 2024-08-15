@@ -1,4 +1,4 @@
-<h1 align="center">Wuddup Wuddup! I'm James</h1>
+<h1 align="center">Wuddup Wuddup! I'm James!</h1>
 <h3 align="center">A 3rd Year Comp Sci Student from Los Angeles, CA</h3>
 
 <img align="right" alt="Coding" width="455" src="https://c.tenor.com/34WjKzkaKVgAAAAC/tenor.gif">
