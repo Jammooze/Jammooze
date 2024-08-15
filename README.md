@@ -3,11 +3,13 @@
 
 <img align="right" alt="Coding" width="455" src="https://c.tenor.com/34WjKzkaKVgAAAAC/tenor.gif">
 
-- 📈 Currently tryin' to learn **React + Vite**
+- 📈 Currently tryin' to learn **Roblox Dev**
 
 - 📫 You can reach me at **nguyejames03@gmail.com**
 
 - 🖐 Fun Fact: **I still count with my fingers...**
+
+- 😅 Check out my site **https://nguyenjames.me/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
