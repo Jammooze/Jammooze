@@ -9,7 +9,7 @@
 
 - 🖐 Fun Fact: **I still count with my fingers...**
 
-- 😅 Check out my site **https://nguyenjames.me/**
+- 😅 Check out my site **nguyenjames.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
